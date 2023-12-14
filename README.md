@@ -1,7 +1,7 @@
 # aws-sagemaker
 AWS SageMaker assets
 
-Data Wrangler
+## Data Wrangler
 - Hotel Bookings
-Build-in-Algorithms
+## Build-in-Algorithms
 - Customer Churn
