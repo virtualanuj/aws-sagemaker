@@ -5,3 +5,10 @@ AWS SageMaker assets
 - Hotel Bookings
 ## Build-in-Algorithms
 - Customer Churn
+## Scipt Mode
+-- Redwine quality
+## Experiments
+-- Handwritten Digits Tensorflow
+## Claify
+- Loan approval
+  
